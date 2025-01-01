@@ -1,4 +1,5 @@
-# Colours.
+# Theme and colours.
+theme = "iTerm2 Default"
 palette = 0=#000000
 palette = 1=#b83019
 palette = 2=#51bf37
@@ -33,6 +34,7 @@ mouse-scroll-multiplier = .2
 
 # Font settings.
 font-family = "JetBrains Mono"
+font-family = "MesloLGS NF"
 font-size = 16
 
 # TERM override (for Tmux compatibility).
