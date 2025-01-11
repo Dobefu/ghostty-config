@@ -30,7 +30,7 @@ background-blur-radius = 10
 window-save-state = always
 
 # Mouse settings.
-mouse-scroll-multiplier = 1
+mouse-scroll-multiplier = .8
 
 # Font settings.
 font-family = "JetBrains Mono"
