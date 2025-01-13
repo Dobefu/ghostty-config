@@ -21,6 +21,7 @@ foreground = c7c7c7
 cursor-color = c7c7c7
 selection-background = c6dcfc
 selection-foreground = 000000
+bold-is-bright = true
 
 # Background opacity and blur.
 background-opacity = .8
