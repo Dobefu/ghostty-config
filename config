@@ -38,7 +38,7 @@ font-family = "JetBrains Mono"
 font-family = "MesloLGS NF"
 font-size = 16
 
-# TERM override (for Tmux compatibility).
+# TERM override (for general compatibility).
 term = "xterm-256color"
 
 # MacOS specific.
