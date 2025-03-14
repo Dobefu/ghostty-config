@@ -45,3 +45,4 @@ term = "xterm-256color"
 macos-window-shadow = false
 macos-auto-secure-input = true
 macos-secure-input-indication = true
+macos-icon = "official"
