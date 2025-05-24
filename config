@@ -41,11 +41,11 @@ font-size = 16
 # TERM override (for general compatibility).
 term = "xterm-256color"
 
-# MacOS specific.
+# MacOS specific options.
 macos-window-shadow = false
 macos-auto-secure-input = true
 macos-secure-input-indication = true
 macos-icon = "official"
 
-# Linux specific.
+# Linux specific options.
 gtk-single-instance = true
